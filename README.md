@@ -19,13 +19,8 @@ JavaScript (ES6+)
 
 Basic CSS
 
-📸 Demo
-
-<!-- Replace with actual screenshot or screen recording if available -->
 📂 Folder Structure
-css
-Copy
-Edit
+
 src/
 ├── App.js
 ├── index.js
@@ -34,20 +29,14 @@ src/
 Clone the repository:
 
 bash
-Copy
-Edit
 git clone https://github.com/your-username/todo-react.git
 cd todo-react
 Install dependencies:
 
 bash
-Copy
-Edit
 npm install
 Start the development server:
 
 bash
-Copy
-Edit
 npm start
 The app will be available at http://localhost:3000.
